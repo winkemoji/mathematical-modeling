@@ -4,14 +4,14 @@
 Leslie模型人口预测
 
 Leslie Model Population Forecast.
-****
+<!-- ****
 	
 |Author|winkemoji|
 |---|---
 |E-mail|1321807986@qq.com
 
 
-****
+**** -->
 需引入的包
 ```python
 import numpy as np
@@ -33,4 +33,3 @@ import csv
 * 输出
     * total_population      历年人口总数
     * aging_rate            老龄化比率
-    * 
