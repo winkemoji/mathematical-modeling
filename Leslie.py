@@ -2,7 +2,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
-import pandas as pd
 
 # 读取csv文件
 def csv_read(path):
